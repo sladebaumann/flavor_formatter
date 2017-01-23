@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 
-numbers_file = open('numbers.txt')
+numbers_file = open('numbers_one_disk.txt')
 target = open('flavor_list.json', 'w')
 NewList =  []    #creating new list to append to
 for line in numbers_file:    #for the lines in the text file, read them
@@ -18,8 +18,8 @@ target.write('{\n')
 i=1
 
 for group in NewList:
-	target.write('    "%s": {\n        "name": "c%s.m%s",\n        "vcpus": %s,\n        "ram": %s,\n        "disk": 0,\n        "id": "%s"\n    },\n' 
-		% (i,group[0],group[1],group[0],group[1],i))
+	target.write('    "%s": {\n        "name": "c%s.m%s.d%s",\n        "vcpus": %s,\n        "ram": %s,\n        "disk": %s,\n        "id": "%s"\n    },\n' 
+		% (i,group[0],group[1],group[2],group[0],group[1],group[2],i))
 	i+=1
 #"extra_specs": {\n            "disk2":
 

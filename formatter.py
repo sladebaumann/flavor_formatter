@@ -2,7 +2,7 @@
 
 
 numbers_file = open('numbers.txt')
-target = open('diskless_flavor_list.json', 'w')
+target = open('flavor_list.json', 'w')
 NewList =  []    #creating new list to append to
 for line in numbers_file:    #for the lines in the text file, read them
     line.rstrip()   # strip the white space

@@ -18,7 +18,7 @@ target.write('{\n')
 i=1
 
 for group in NewList:
-	target.write('    "%s": {\n        "name": "c%s.m%s.d%s",\n        "vcpus": %s,\n        "ram": %s,\n        "disk": %s,\n        "id": "%s"\n    },\n' 
+	target.write('    "%s": {\n        "name": "c%s.m%s.d%s",\n        "vcpus": %s,\n        "ram": %s,\n        "disk": %s,\n        "disk-type": "SAN",\n        "id": "%s"\n    },\n' 
 		% (i,group[0],group[1],group[2],group[0],group[1],group[2],i))
 	i+=1
 #"extra_specs": {\n            "disk2":

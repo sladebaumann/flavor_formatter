@@ -1,0 +1,1642 @@
+{
+    "1": {
+        "name": "c1.m1.d25.d0",
+        "vcpus": 1,
+        "ram": 1,
+        "disk": 25,
+        "id": "1"
+    },
+    "2": {
+        "name": "c1.m2.d25.d0",
+        "vcpus": 1,
+        "ram": 2,
+        "disk": 25,
+        "id": "2"
+    },
+    "3": {
+        "name": "c1.m4.d25.d0",
+        "vcpus": 1,
+        "ram": 4,
+        "disk": 25,
+        "id": "3"
+    },
+    "4": {
+        "name": "c1.m6.d25.d0",
+        "vcpus": 1,
+        "ram": 6,
+        "disk": 25,
+        "id": "4"
+    },
+    "5": {
+        "name": "c2.m2.d25.d0",
+        "vcpus": 2,
+        "ram": 2,
+        "disk": 25,
+        "id": "5"
+    },
+    "6": {
+        "name": "c2.m4.d25.d0",
+        "vcpus": 2,
+        "ram": 4,
+        "disk": 25,
+        "id": "6"
+    },
+    "7": {
+        "name": "c2.m6.d25.d0",
+        "vcpus": 2,
+        "ram": 6,
+        "disk": 25,
+        "id": "7"
+    },
+    "8": {
+        "name": "c2.m8.d25.d0",
+        "vcpus": 2,
+        "ram": 8,
+        "disk": 25,
+        "id": "8"
+    },
+    "9": {
+        "name": "c4.m2.d25.d0",
+        "vcpus": 4,
+        "ram": 2,
+        "disk": 25,
+        "id": "9"
+    },
+    "10": {
+        "name": "c4.m4.d25.d0",
+        "vcpus": 4,
+        "ram": 4,
+        "disk": 25,
+        "id": "10"
+    },
+    "11": {
+        "name": "c4.m6.d25.d0",
+        "vcpus": 4,
+        "ram": 6,
+        "disk": 25,
+        "id": "11"
+    },
+    "12": {
+        "name": "c4.m8.d25.d0",
+        "vcpus": 4,
+        "ram": 8,
+        "disk": 25,
+        "id": "12"
+    },
+    "13": {
+        "name": "c4.m12.d50.d0",
+        "vcpus": 4,
+        "ram": 12,
+        "disk": 50,
+        "id": "13"
+    },
+    "14": {
+        "name": "c4.m16.d50.d0",
+        "vcpus": 4,
+        "ram": 16,
+        "disk": 50,
+        "id": "14"
+    },
+    "15": {
+        "name": "c4.m32.d50.d0",
+        "vcpus": 4,
+        "ram": 32,
+        "disk": 50,
+        "id": "15"
+    },
+    "16": {
+        "name": "c8.m2.d50.d0",
+        "vcpus": 8,
+        "ram": 2,
+        "disk": 50,
+        "id": "16"
+    },
+    "17": {
+        "name": "c8.m4.d50.d0",
+        "vcpus": 8,
+        "ram": 4,
+        "disk": 50,
+        "id": "17"
+    },
+    "18": {
+        "name": "c8.m6.d50.d0",
+        "vcpus": 8,
+        "ram": 6,
+        "disk": 50,
+        "id": "18"
+    },
+    "19": {
+        "name": "c8.m8.d50.d0",
+        "vcpus": 8,
+        "ram": 8,
+        "disk": 50,
+        "id": "19"
+    },
+    "20": {
+        "name": "c8.m12.d50.d0",
+        "vcpus": 8,
+        "ram": 12,
+        "disk": 50,
+        "id": "20"
+    },
+    "21": {
+        "name": "c8.m16.d50.d0",
+        "vcpus": 8,
+        "ram": 16,
+        "disk": 50,
+        "id": "21"
+    },
+    "22": {
+        "name": "c8.m32.d50.d0",
+        "vcpus": 8,
+        "ram": 32,
+        "disk": 50,
+        "id": "22"
+    },
+    "23": {
+        "name": "c8.m48.d50.d0",
+        "vcpus": 8,
+        "ram": 48,
+        "disk": 50,
+        "id": "23"
+    },
+    "24": {
+        "name": "c16.m4.d100.d0",
+        "vcpus": 16,
+        "ram": 4,
+        "disk": 100,
+        "id": "24"
+    },
+    "25": {
+        "name": "c16.m6.d100.d0",
+        "vcpus": 16,
+        "ram": 6,
+        "disk": 100,
+        "id": "25"
+    },
+    "26": {
+        "name": "c16.m8.d100.d0",
+        "vcpus": 16,
+        "ram": 8,
+        "disk": 100,
+        "id": "26"
+    },
+    "27": {
+        "name": "c16.m12.d100.d0",
+        "vcpus": 16,
+        "ram": 12,
+        "disk": 100,
+        "id": "27"
+    },
+    "28": {
+        "name": "c16.m16.d100.d0",
+        "vcpus": 16,
+        "ram": 16,
+        "disk": 100,
+        "id": "28"
+    },
+    "29": {
+        "name": "c16.m32.d100.d0",
+        "vcpus": 16,
+        "ram": 32,
+        "disk": 100,
+        "id": "29"
+    },
+    "30": {
+        "name": "c16.m48.d100.d0",
+        "vcpus": 16,
+        "ram": 48,
+        "disk": 100,
+        "id": "30"
+    },
+    "31": {
+        "name": "c32.m8.d100.d0",
+        "vcpus": 32,
+        "ram": 8,
+        "disk": 100,
+        "id": "31"
+    },
+    "32": {
+        "name": "c32.m12.d200.d0",
+        "vcpus": 32,
+        "ram": 12,
+        "disk": 200,
+        "id": "32"
+    },
+    "33": {
+        "name": "c32.m16.d200.d0",
+        "vcpus": 32,
+        "ram": 16,
+        "disk": 200,
+        "id": "33"
+    },
+    "34": {
+        "name": "c32.m32.d200.d0",
+        "vcpus": 32,
+        "ram": 32,
+        "disk": 200,
+        "id": "34"
+    },
+    "35": {
+        "name": "c32.m48.d200.d0",
+        "vcpus": 32,
+        "ram": 48,
+        "disk": 200,
+        "id": "35"
+    },
+    "36": {
+        "name": "c32.m64.d200.d0",
+        "vcpus": 32,
+        "ram": 64,
+        "disk": 200,
+        "id": "36"
+    },
+    "37": {
+        "name": "c56.m48.d200.d0",
+        "vcpus": 56,
+        "ram": 48,
+        "disk": 200,
+        "id": "37"
+    },
+    "38": {
+        "name": "c56.m64.d200.d0",
+        "vcpus": 56,
+        "ram": 64,
+        "disk": 200,
+        "id": "38"
+    },
+    "39": {
+        "name": "c56.m128.d200.d0",
+        "vcpus": 56,
+        "ram": 128,
+        "disk": 200,
+        "id": "39"
+    },
+    "40": {
+        "name": "c56.m242.d200.d0",
+        "vcpus": 56,
+        "ram": 242,
+        "disk": 200,
+        "id": "40"
+    },
+    "41": {
+        "name": "c1.m1.d25.d25",
+        "vcpus": 1,
+        "ram": 1,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "41"
+    },
+    "42": {
+        "name": "c1.m2.d25.d25",
+        "vcpus": 1,
+        "ram": 2,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "42"
+    },
+    "43": {
+        "name": "c1.m4.d25.d25",
+        "vcpus": 1,
+        "ram": 4,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "43"
+    },
+    "44": {
+        "name": "c1.m6.d25.d25",
+        "vcpus": 1,
+        "ram": 6,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "44"
+    },
+    "45": {
+        "name": "c2.m2.d25.d25",
+        "vcpus": 2,
+        "ram": 2,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "45"
+    },
+    "46": {
+        "name": "c2.m4.d25.d25",
+        "vcpus": 2,
+        "ram": 4,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "46"
+    },
+    "47": {
+        "name": "c2.m6.d25.d25",
+        "vcpus": 2,
+        "ram": 6,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "47"
+    },
+    "48": {
+        "name": "c2.m8.d25.d25",
+        "vcpus": 2,
+        "ram": 8,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "48"
+    },
+    "49": {
+        "name": "c4.m2.d25.d25",
+        "vcpus": 4,
+        "ram": 2,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "49"
+    },
+    "50": {
+        "name": "c4.m4.d25.d25",
+        "vcpus": 4,
+        "ram": 4,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "50"
+    },
+    "51": {
+        "name": "c4.m6.d25.d25",
+        "vcpus": 4,
+        "ram": 6,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "51"
+    },
+    "52": {
+        "name": "c4.m8.d25.d25",
+        "vcpus": 4,
+        "ram": 8,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "52"
+    },
+    "53": {
+        "name": "c4.m12.d50.d50",
+        "vcpus": 4,
+        "ram": 12,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "53"
+    },
+    "54": {
+        "name": "c4.m16.d50.d50",
+        "vcpus": 4,
+        "ram": 16,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "54"
+    },
+    "55": {
+        "name": "c4.m32.d50.d50",
+        "vcpus": 4,
+        "ram": 32,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "55"
+    },
+    "56": {
+        "name": "c8.m2.d50.d50",
+        "vcpus": 8,
+        "ram": 2,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "56"
+    },
+    "57": {
+        "name": "c8.m4.d50.d50",
+        "vcpus": 8,
+        "ram": 4,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "57"
+    },
+    "58": {
+        "name": "c8.m6.d50.d50",
+        "vcpus": 8,
+        "ram": 6,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "58"
+    },
+    "59": {
+        "name": "c8.m8.d50.d50",
+        "vcpus": 8,
+        "ram": 8,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "59"
+    },
+    "60": {
+        "name": "c8.m12.d50.d50",
+        "vcpus": 8,
+        "ram": 12,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "60"
+    },
+    "61": {
+        "name": "c8.m16.d50.d50",
+        "vcpus": 8,
+        "ram": 16,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "61"
+    },
+    "62": {
+        "name": "c8.m32.d50.d50",
+        "vcpus": 8,
+        "ram": 32,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "62"
+    },
+    "63": {
+        "name": "c8.m48.d50.d50",
+        "vcpus": 8,
+        "ram": 48,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "63"
+    },
+    "64": {
+        "name": "c16.m4.d100.d100",
+        "vcpus": 16,
+        "ram": 4,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "64"
+    },
+    "65": {
+        "name": "c16.m6.d100.d100",
+        "vcpus": 16,
+        "ram": 6,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "65"
+    },
+    "66": {
+        "name": "c16.m8.d100.d100",
+        "vcpus": 16,
+        "ram": 8,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "66"
+    },
+    "67": {
+        "name": "c16.m12.d100.d100",
+        "vcpus": 16,
+        "ram": 12,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "67"
+    },
+    "68": {
+        "name": "c16.m16.d100.d100",
+        "vcpus": 16,
+        "ram": 16,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "68"
+    },
+    "69": {
+        "name": "c16.m32.d100.d100",
+        "vcpus": 16,
+        "ram": 32,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "69"
+    },
+    "70": {
+        "name": "c16.m48.d100.d100",
+        "vcpus": 16,
+        "ram": 48,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "70"
+    },
+    "71": {
+        "name": "c32.m8.d100.d100",
+        "vcpus": 32,
+        "ram": 8,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "71"
+    },
+    "72": {
+        "name": "c32.m12.d200.d200",
+        "vcpus": 32,
+        "ram": 12,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "72"
+    },
+    "73": {
+        "name": "c32.m16.d200.d200",
+        "vcpus": 32,
+        "ram": 16,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "73"
+    },
+    "74": {
+        "name": "c32.m32.d200.d200",
+        "vcpus": 32,
+        "ram": 32,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "74"
+    },
+    "75": {
+        "name": "c32.m48.d200.d200",
+        "vcpus": 32,
+        "ram": 48,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "75"
+    },
+    "76": {
+        "name": "c32.m64.d200.d200",
+        "vcpus": 32,
+        "ram": 64,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "76"
+    },
+    "77": {
+        "name": "c56.m48.d200.d200",
+        "vcpus": 56,
+        "ram": 48,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "77"
+    },
+    "78": {
+        "name": "c56.m64.d200.d200",
+        "vcpus": 56,
+        "ram": 64,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "78"
+    },
+    "79": {
+        "name": "c56.m128.d200.d200",
+        "vcpus": 56,
+        "ram": 128,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "79"
+    },
+    "80": {
+        "name": "c56.m242.d200.d200",
+        "vcpus": 56,
+        "ram": 242,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "80"
+    },
+    "81": {
+        "name": "c1.m1.d50.d0",
+        "vcpus": 1,
+        "ram": 1,
+        "disk": 50,
+        "id": "81"
+    },
+    "82": {
+        "name": "c1.m2.d50.d0",
+        "vcpus": 1,
+        "ram": 2,
+        "disk": 50,
+        "id": "82"
+    },
+    "83": {
+        "name": "c1.m4.d50.d0",
+        "vcpus": 1,
+        "ram": 4,
+        "disk": 50,
+        "id": "83"
+    },
+    "84": {
+        "name": "c1.m6.d50.d0",
+        "vcpus": 1,
+        "ram": 6,
+        "disk": 50,
+        "id": "84"
+    },
+    "85": {
+        "name": "c2.m2.d50.d0",
+        "vcpus": 2,
+        "ram": 2,
+        "disk": 50,
+        "id": "85"
+    },
+    "86": {
+        "name": "c2.m4.d50.d0",
+        "vcpus": 2,
+        "ram": 4,
+        "disk": 50,
+        "id": "86"
+    },
+    "87": {
+        "name": "c2.m6.d50.d0",
+        "vcpus": 2,
+        "ram": 6,
+        "disk": 50,
+        "id": "87"
+    },
+    "88": {
+        "name": "c2.m8.d50.d0",
+        "vcpus": 2,
+        "ram": 8,
+        "disk": 50,
+        "id": "88"
+    },
+    "89": {
+        "name": "c4.m2.d50.d0",
+        "vcpus": 4,
+        "ram": 2,
+        "disk": 50,
+        "id": "89"
+    },
+    "90": {
+        "name": "c4.m4.d50.d0",
+        "vcpus": 4,
+        "ram": 4,
+        "disk": 50,
+        "id": "90"
+    },
+    "91": {
+        "name": "c4.m6.d50.d0",
+        "vcpus": 4,
+        "ram": 6,
+        "disk": 50,
+        "id": "91"
+    },
+    "92": {
+        "name": "c4.m8.d50.d0",
+        "vcpus": 4,
+        "ram": 8,
+        "disk": 50,
+        "id": "92"
+    },
+    "93": {
+        "name": "c4.m12.d25.d0",
+        "vcpus": 4,
+        "ram": 12,
+        "disk": 25,
+        "id": "93"
+    },
+    "94": {
+        "name": "c4.m16.d25.d0",
+        "vcpus": 4,
+        "ram": 16,
+        "disk": 25,
+        "id": "94"
+    },
+    "95": {
+        "name": "c4.m32.d25.d0",
+        "vcpus": 4,
+        "ram": 32,
+        "disk": 25,
+        "id": "95"
+    },
+    "96": {
+        "name": "c8.m2.d25.d0",
+        "vcpus": 8,
+        "ram": 2,
+        "disk": 25,
+        "id": "96"
+    },
+    "97": {
+        "name": "c8.m4.d25.d0",
+        "vcpus": 8,
+        "ram": 4,
+        "disk": 25,
+        "id": "97"
+    },
+    "98": {
+        "name": "c8.m6.d25.d0",
+        "vcpus": 8,
+        "ram": 6,
+        "disk": 25,
+        "id": "98"
+    },
+    "99": {
+        "name": "c8.m8.d25.d0",
+        "vcpus": 8,
+        "ram": 8,
+        "disk": 25,
+        "id": "99"
+    },
+    "100": {
+        "name": "c8.m12.d25.d0",
+        "vcpus": 8,
+        "ram": 12,
+        "disk": 25,
+        "id": "100"
+    },
+    "101": {
+        "name": "c8.m16.d25.d0",
+        "vcpus": 8,
+        "ram": 16,
+        "disk": 25,
+        "id": "101"
+    },
+    "102": {
+        "name": "c8.m32.d25.d0",
+        "vcpus": 8,
+        "ram": 32,
+        "disk": 25,
+        "id": "102"
+    },
+    "103": {
+        "name": "c8.m48.d25.d0",
+        "vcpus": 8,
+        "ram": 48,
+        "disk": 25,
+        "id": "103"
+    },
+    "104": {
+        "name": "c16.m4.d200.d0",
+        "vcpus": 16,
+        "ram": 4,
+        "disk": 200,
+        "id": "104"
+    },
+    "105": {
+        "name": "c16.m6.d200.d0",
+        "vcpus": 16,
+        "ram": 6,
+        "disk": 200,
+        "id": "105"
+    },
+    "106": {
+        "name": "c16.m8.d200.d0",
+        "vcpus": 16,
+        "ram": 8,
+        "disk": 200,
+        "id": "106"
+    },
+    "107": {
+        "name": "c16.m12.d200.d0",
+        "vcpus": 16,
+        "ram": 12,
+        "disk": 200,
+        "id": "107"
+    },
+    "108": {
+        "name": "c16.m16.d200.d0",
+        "vcpus": 16,
+        "ram": 16,
+        "disk": 200,
+        "id": "108"
+    },
+    "109": {
+        "name": "c16.m32.d200.d0",
+        "vcpus": 16,
+        "ram": 32,
+        "disk": 200,
+        "id": "109"
+    },
+    "110": {
+        "name": "c16.m48.d200.d0",
+        "vcpus": 16,
+        "ram": 48,
+        "disk": 200,
+        "id": "110"
+    },
+    "111": {
+        "name": "c32.m8.d200.d0",
+        "vcpus": 32,
+        "ram": 8,
+        "disk": 200,
+        "id": "111"
+    },
+    "112": {
+        "name": "c32.m12.d100.d0",
+        "vcpus": 32,
+        "ram": 12,
+        "disk": 100,
+        "id": "112"
+    },
+    "113": {
+        "name": "c32.m16.d100.d0",
+        "vcpus": 32,
+        "ram": 16,
+        "disk": 100,
+        "id": "113"
+    },
+    "114": {
+        "name": "c32.m32.d100.d0",
+        "vcpus": 32,
+        "ram": 32,
+        "disk": 100,
+        "id": "114"
+    },
+    "115": {
+        "name": "c32.m48.d100.d0",
+        "vcpus": 32,
+        "ram": 48,
+        "disk": 100,
+        "id": "115"
+    },
+    "116": {
+        "name": "c32.m64.d100.d0",
+        "vcpus": 32,
+        "ram": 64,
+        "disk": 100,
+        "id": "116"
+    },
+    "117": {
+        "name": "c56.m48.d100.d0",
+        "vcpus": 56,
+        "ram": 48,
+        "disk": 100,
+        "id": "117"
+    },
+    "118": {
+        "name": "c56.m64.d100.d0",
+        "vcpus": 56,
+        "ram": 64,
+        "disk": 100,
+        "id": "118"
+    },
+    "119": {
+        "name": "c56.m128.d100.d0",
+        "vcpus": 56,
+        "ram": 128,
+        "disk": 100,
+        "id": "119"
+    },
+    "120": {
+        "name": "c56.m242.d100.d0",
+        "vcpus": 56,
+        "ram": 242,
+        "disk": 100,
+        "id": "120"
+    },
+    "121": {
+        "name": "c1.m1.d50.d50",
+        "vcpus": 1,
+        "ram": 1,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "121"
+    },
+    "122": {
+        "name": "c1.m2.d50.d50",
+        "vcpus": 1,
+        "ram": 2,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "122"
+    },
+    "123": {
+        "name": "c1.m4.d50.d50",
+        "vcpus": 1,
+        "ram": 4,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "123"
+    },
+    "124": {
+        "name": "c1.m6.d50.d50",
+        "vcpus": 1,
+        "ram": 6,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "124"
+    },
+    "125": {
+        "name": "c2.m2.d50.d50",
+        "vcpus": 2,
+        "ram": 2,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "125"
+    },
+    "126": {
+        "name": "c2.m4.d50.d50",
+        "vcpus": 2,
+        "ram": 4,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "126"
+    },
+    "127": {
+        "name": "c2.m6.d50.d50",
+        "vcpus": 2,
+        "ram": 6,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "127"
+    },
+    "128": {
+        "name": "c2.m8.d50.d50",
+        "vcpus": 2,
+        "ram": 8,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "128"
+    },
+    "129": {
+        "name": "c4.m2.d50.d50",
+        "vcpus": 4,
+        "ram": 2,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "129"
+    },
+    "130": {
+        "name": "c4.m4.d50.d50",
+        "vcpus": 4,
+        "ram": 4,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "130"
+    },
+    "131": {
+        "name": "c4.m6.d50.d50",
+        "vcpus": 4,
+        "ram": 6,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "131"
+    },
+    "132": {
+        "name": "c4.m8.d50.d50",
+        "vcpus": 4,
+        "ram": 8,
+        "disk": 50,
+        "extra_specs": {
+            "disk2": "50"
+        },
+        "id": "132"
+    },
+    "133": {
+        "name": "c4.m12.d25.d25",
+        "vcpus": 4,
+        "ram": 12,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "133"
+    },
+    "134": {
+        "name": "c4.m16.d25.d25",
+        "vcpus": 4,
+        "ram": 16,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "134"
+    },
+    "135": {
+        "name": "c4.m32.d25.d25",
+        "vcpus": 4,
+        "ram": 32,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "135"
+    },
+    "136": {
+        "name": "c8.m2.d25.d25",
+        "vcpus": 8,
+        "ram": 2,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "136"
+    },
+    "137": {
+        "name": "c8.m4.d25.d25",
+        "vcpus": 8,
+        "ram": 4,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "137"
+    },
+    "138": {
+        "name": "c8.m6.d25.d25",
+        "vcpus": 8,
+        "ram": 6,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "138"
+    },
+    "139": {
+        "name": "c8.m8.d25.d25",
+        "vcpus": 8,
+        "ram": 8,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "139"
+    },
+    "140": {
+        "name": "c8.m12.d25.d25",
+        "vcpus": 8,
+        "ram": 12,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "140"
+    },
+    "141": {
+        "name": "c8.m16.d25.d25",
+        "vcpus": 8,
+        "ram": 16,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "141"
+    },
+    "142": {
+        "name": "c8.m32.d25.d25",
+        "vcpus": 8,
+        "ram": 32,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "142"
+    },
+    "143": {
+        "name": "c8.m48.d25.d25",
+        "vcpus": 8,
+        "ram": 48,
+        "disk": 25,
+        "extra_specs": {
+            "disk2": "25"
+        },
+        "id": "143"
+    },
+    "144": {
+        "name": "c16.m4.d200.d200",
+        "vcpus": 16,
+        "ram": 4,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "144"
+    },
+    "145": {
+        "name": "c16.m6.d200.d200",
+        "vcpus": 16,
+        "ram": 6,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "145"
+    },
+    "146": {
+        "name": "c16.m8.d200.d200",
+        "vcpus": 16,
+        "ram": 8,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "146"
+    },
+    "147": {
+        "name": "c16.m12.d200.d200",
+        "vcpus": 16,
+        "ram": 12,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "147"
+    },
+    "148": {
+        "name": "c16.m16.d200.d200",
+        "vcpus": 16,
+        "ram": 16,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "148"
+    },
+    "149": {
+        "name": "c16.m32.d200.d200",
+        "vcpus": 16,
+        "ram": 32,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "149"
+    },
+    "150": {
+        "name": "c16.m48.d200.d200",
+        "vcpus": 16,
+        "ram": 48,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "150"
+    },
+    "151": {
+        "name": "c32.m8.d200.d200",
+        "vcpus": 32,
+        "ram": 8,
+        "disk": 200,
+        "extra_specs": {
+            "disk2": "200"
+        },
+        "id": "151"
+    },
+    "152": {
+        "name": "c32.m12.d100.d100",
+        "vcpus": 32,
+        "ram": 12,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "152"
+    },
+    "153": {
+        "name": "c32.m16.d100.d100",
+        "vcpus": 32,
+        "ram": 16,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "153"
+    },
+    "154": {
+        "name": "c32.m32.d100.d100",
+        "vcpus": 32,
+        "ram": 32,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "154"
+    },
+    "155": {
+        "name": "c32.m48.d100.d100",
+        "vcpus": 32,
+        "ram": 48,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "155"
+    },
+    "156": {
+        "name": "c32.m64.d100.d100",
+        "vcpus": 32,
+        "ram": 64,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "156"
+    },
+    "157": {
+        "name": "c56.m48.d100.d100",
+        "vcpus": 56,
+        "ram": 48,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "157"
+    },
+    "158": {
+        "name": "c56.m64.d100.d100",
+        "vcpus": 56,
+        "ram": 64,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "158"
+    },
+    "159": {
+        "name": "c56.m128.d100.d100",
+        "vcpus": 56,
+        "ram": 128,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "159"
+    },
+    "160": {
+        "name": "c56.m242.d100.d100",
+        "vcpus": 56,
+        "ram": 242,
+        "disk": 100,
+        "extra_specs": {
+            "disk2": "100"
+        },
+        "id": "160"
+    },
+    "161": {
+        "name": "c1.m1.d0.d0",
+        "vcpus": 1,
+        "ram": 1,
+        "disk": 0,
+        "id": "161"
+    },
+    "162": {
+        "name": "c1.m2.d0.d0",
+        "vcpus": 1,
+        "ram": 2,
+        "disk": 0,
+        "id": "162"
+    },
+    "163": {
+        "name": "c1.m4.d0.d0",
+        "vcpus": 1,
+        "ram": 4,
+        "disk": 0,
+        "id": "163"
+    },
+    "164": {
+        "name": "c1.m6.d0.d0",
+        "vcpus": 1,
+        "ram": 6,
+        "disk": 0,
+        "id": "164"
+    },
+    "165": {
+        "name": "c2.m2.d0.d0",
+        "vcpus": 2,
+        "ram": 2,
+        "disk": 0,
+        "id": "165"
+    },
+    "166": {
+        "name": "c2.m4.d0.d0",
+        "vcpus": 2,
+        "ram": 4,
+        "disk": 0,
+        "id": "166"
+    },
+    "167": {
+        "name": "c2.m6.d0.d0",
+        "vcpus": 2,
+        "ram": 6,
+        "disk": 0,
+        "id": "167"
+    },
+    "168": {
+        "name": "c2.m8.d0.d0",
+        "vcpus": 2,
+        "ram": 8,
+        "disk": 0,
+        "id": "168"
+    },
+    "169": {
+        "name": "c4.m2.d0.d0",
+        "vcpus": 4,
+        "ram": 2,
+        "disk": 0,
+        "id": "169"
+    },
+    "170": {
+        "name": "c4.m4.d0.d0",
+        "vcpus": 4,
+        "ram": 4,
+        "disk": 0,
+        "id": "170"
+    },
+    "171": {
+        "name": "c4.m6.d0.d0",
+        "vcpus": 4,
+        "ram": 6,
+        "disk": 0,
+        "id": "171"
+    },
+    "172": {
+        "name": "c4.m8.d0.d0",
+        "vcpus": 4,
+        "ram": 8,
+        "disk": 0,
+        "id": "172"
+    },
+    "173": {
+        "name": "c4.m12.d0.d0",
+        "vcpus": 4,
+        "ram": 12,
+        "disk": 0,
+        "id": "173"
+    },
+    "174": {
+        "name": "c4.m16.d0.d0",
+        "vcpus": 4,
+        "ram": 16,
+        "disk": 0,
+        "id": "174"
+    },
+    "175": {
+        "name": "c4.m32.d0.d0",
+        "vcpus": 4,
+        "ram": 32,
+        "disk": 0,
+        "id": "175"
+    },
+    "176": {
+        "name": "c8.m2.d0.d0",
+        "vcpus": 8,
+        "ram": 2,
+        "disk": 0,
+        "id": "176"
+    },
+    "177": {
+        "name": "c8.m4.d0.d0",
+        "vcpus": 8,
+        "ram": 4,
+        "disk": 0,
+        "id": "177"
+    },
+    "178": {
+        "name": "c8.m6.d0.d0",
+        "vcpus": 8,
+        "ram": 6,
+        "disk": 0,
+        "id": "178"
+    },
+    "179": {
+        "name": "c8.m8.d0.d0",
+        "vcpus": 8,
+        "ram": 8,
+        "disk": 0,
+        "id": "179"
+    },
+    "180": {
+        "name": "c8.m12.d0.d0",
+        "vcpus": 8,
+        "ram": 12,
+        "disk": 0,
+        "id": "180"
+    },
+    "181": {
+        "name": "c8.m16.d0.d0",
+        "vcpus": 8,
+        "ram": 16,
+        "disk": 0,
+        "id": "181"
+    },
+    "182": {
+        "name": "c8.m32.d0.d0",
+        "vcpus": 8,
+        "ram": 32,
+        "disk": 0,
+        "id": "182"
+    },
+    "183": {
+        "name": "c8.m48.d0.d0",
+        "vcpus": 8,
+        "ram": 48,
+        "disk": 0,
+        "id": "183"
+    },
+    "184": {
+        "name": "c16.m4.d0.d0",
+        "vcpus": 16,
+        "ram": 4,
+        "disk": 0,
+        "id": "184"
+    },
+    "185": {
+        "name": "c16.m6.d0.d0",
+        "vcpus": 16,
+        "ram": 6,
+        "disk": 0,
+        "id": "185"
+    },
+    "186": {
+        "name": "c16.m8.d0.d0",
+        "vcpus": 16,
+        "ram": 8,
+        "disk": 0,
+        "id": "186"
+    },
+    "187": {
+        "name": "c16.m12.d0.d0",
+        "vcpus": 16,
+        "ram": 12,
+        "disk": 0,
+        "id": "187"
+    },
+    "188": {
+        "name": "c16.m16.d0.d0",
+        "vcpus": 16,
+        "ram": 16,
+        "disk": 0,
+        "id": "188"
+    },
+    "189": {
+        "name": "c16.m32.d0.d0",
+        "vcpus": 16,
+        "ram": 32,
+        "disk": 0,
+        "id": "189"
+    },
+    "190": {
+        "name": "c16.m48.d0.d0",
+        "vcpus": 16,
+        "ram": 48,
+        "disk": 0,
+        "id": "190"
+    },
+    "191": {
+        "name": "c32.m8.d0.d0",
+        "vcpus": 32,
+        "ram": 8,
+        "disk": 0,
+        "id": "191"
+    },
+    "192": {
+        "name": "c32.m12.d0.d0",
+        "vcpus": 32,
+        "ram": 12,
+        "disk": 0,
+        "id": "192"
+    },
+    "193": {
+        "name": "c32.m16.d0.d0",
+        "vcpus": 32,
+        "ram": 16,
+        "disk": 0,
+        "id": "193"
+    },
+    "194": {
+        "name": "c32.m32.d0.d0",
+        "vcpus": 32,
+        "ram": 32,
+        "disk": 0,
+        "id": "194"
+    },
+    "195": {
+        "name": "c32.m48.d0.d0",
+        "vcpus": 32,
+        "ram": 48,
+        "disk": 0,
+        "id": "195"
+    },
+    "196": {
+        "name": "c32.m64.d0.d0",
+        "vcpus": 32,
+        "ram": 64,
+        "disk": 0,
+        "id": "196"
+    },
+    "197": {
+        "name": "c56.m48.d0.d0",
+        "vcpus": 56,
+        "ram": 48,
+        "disk": 0,
+        "id": "197"
+    },
+    "198": {
+        "name": "c56.m64.d0.d0",
+        "vcpus": 56,
+        "ram": 64,
+        "disk": 0,
+        "id": "198"
+    },
+    "199": {
+        "name": "c56.m128.d0.d0",
+        "vcpus": 56,
+        "ram": 128,
+        "disk": 0,
+        "id": "199"
+    },
+    "200": {
+        "name": "c56.m242.d0.d0",
+        "vcpus": 56,
+        "ram": 242,
+        "disk": 0,
+        "id": "200"
+    }
+}
